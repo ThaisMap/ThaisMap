@@ -7,8 +7,6 @@ Minha primeira linguagem foi C# e vários desses projetos foram feitos com WPF.
 
 :books: Agora estou estudando bastante a stack ReactJS, Node.js, React Native e me lançando de vez no universo do desenvolvimento web.
 
-:rocket: Focada na < nlw /> #juntosnoproximonivel
-
 <!--
 **ThaisMap/ThaisMap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
