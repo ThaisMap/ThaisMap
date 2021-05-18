@@ -2,7 +2,7 @@
 
 :woman: Meu nome é Thais Maria e eu gosto de desenvolver soluções práticas para problemas do dia a dia. 
 
-:truck: Atualmente trabalho no Grupo Tesseract e estou iniciando minha jornada como Dev FrontEnd 
+😄 Atualmente trabalho no Grupo Tesseract e estou iniciando minha jornada como Dev FrontEnd 
 
 :books: Agora estou estudando bastante a stack ReactJS, Node.js, React Native e me lançando de vez no universo do desenvolvimento web.
 
