@@ -2,9 +2,9 @@
 
 :woman: Meu nome é Thais Maria e eu gosto de desenvolver soluções práticas para problemas do dia a dia. 
 
-😄 Atualmente trabalho no Grupo Tesseract e estou iniciando minha jornada como Dev FrontEnd 
+😄 Atualmente trabalho no Grupo Tesseract e estou iniciando minha jornada como Dev
 
-:books: Agora estou estudando bastante a stack ReactJS, Node.js, React Native e me lançando de vez no universo do desenvolvimento web.
+:books: Agora estou estudando bastante React Native e cada vez curtindo mais o desenvolvimento mobile
 
 <!--
 **ThaisMap/ThaisMap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
