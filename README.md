@@ -2,9 +2,9 @@
 
 :woman: Meu nome é Thais Maria e eu gosto de desenvolver soluções práticas para problemas do dia a dia. 
 
-😄 Atualmente trabalho no Grupo Tesseract e estou iniciando minha jornada como Dev
+😄 Atualmente trabalho como Engenheira de Software full stack, mas focada pra front end na AmplifyMD
 
-:books: Agora estou estudando bastante React Native e cada vez curtindo mais o desenvolvimento mobile
+:books: Estou estudando tudo sobre design patterns e as bases da engenharia de software.
 
 <!--
 **ThaisMap/ThaisMap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
